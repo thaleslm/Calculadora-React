@@ -1,0 +1,13 @@
+.Buttons{
+    display: grid;
+    background-color: rgba(46, 43, 43, 0.404);
+    padding-top: 5px;
+    font-size: 30px;
+    overflow: hidden;
+}
+.two{
+    grid-column: span 2;
+}
+.tree{
+    grid-column: span 3;
+} 

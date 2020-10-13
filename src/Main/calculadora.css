@@ -1,0 +1,20 @@
+
+.calculadora{
+    background-image: linear-gradient(to right, rgba(60, 57, 224, 0.534), rgba(47, 231, 248, 0.739));
+    display: grid;
+    height: 490px;
+    width: 400px;
+    border: 2px solid rgb(19, 5, 5);
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(5, 15%);   
+}
+Button:hover{
+    background-image: linear-gradient(to right, rgba(180, 179, 228, 0.534), rgba(134, 242, 251, 0.739));
+}
+.Display{
+    display: grid;
+    grid-row: span 2;
+    grid-column: span 4;
+ 
+}
+

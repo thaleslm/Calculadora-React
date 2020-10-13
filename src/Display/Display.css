@@ -1,0 +1,7 @@
+display{
+    background-image: linear-gradient(to right, rgba(0, 225, 255, 0), rgba(70, 86, 231, 0.404));
+    color: white;
+    text-align: end;
+    font-size: 50px;
+    overflow: hidden;
+}
