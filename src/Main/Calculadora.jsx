@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
 import './calculadora.css'
 
-import Button from '../button/buttons'
+import Button from '../button/buttons.'
 import Display from '../Display/Display'
 
 

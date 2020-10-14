@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import Calculadora from './Main/Calculadora.js'
+import Calculadora from './Main/Calculadora.jsx'
 
 export default class App extends Component{
   
